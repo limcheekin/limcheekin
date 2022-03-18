@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NFT &lpar;ERC721&rpar; with Physical Asset Delivery and Secondary Royalties &lpar;ERC2981&rpar;](https://limcheekin.medium.com/nft-erc721-with-physical-asset-delivery-and-secondary-royalties-erc2981-f63ce60ed4e0?source=rss-f63071aa9d9a------2)
+- [ERC20 Token Sales with Whitelisting Feature](https://limcheekin.medium.com/erc20-token-sales-with-whitelisting-feature-9b1ea76cbbb4?source=rss-f63071aa9d9a------2)
+- [Solidity and Truffle Continuous Integration Setup with GitHub Actions](https://limcheekin.medium.com/solidity-and-truffle-continuous-integration-setup-with-github-actions-221149eabcca?source=rss-f63071aa9d9a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
