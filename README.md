@@ -21,7 +21,7 @@ I am a Senior Tech Lead, AI Engineer, and Solution Architect with over 25 years 
 <p><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></p>
 
 ### 🚀 My Current AI Projects
-- [RAG.WTF](https://www.rag.wtf/): An upcoming open-source platform for private, personalized knowledge discovery and management using RAG systems.
+- [RAG.WTF](https://www.rag.wtf/): An open-source platform for private, personalized knowledge discovery and management using RAG systems.
 - [Talk To AI](https://github.com/limcheekin/talk-to-ai): A real-time voice AI application for low-latency (<300ms) interactions, with a flexible backend supporting local and cloud STT, LLM, and TTS services.
 - [Project Concord](https://github.com/limcheekin/project-concord): A Model Context Protocol (MCP) server that connects modern AI agents with legacy database schemas. 
 
