@@ -1,7 +1,7 @@
 Hi there, I'm Lim Chee Kin 👋<p align="center"><i>Senior Tech Lead, AI Engineer, and Solution Architect passionate about Open-Source AI and Data Sovereignty.</i></p>
 
 ### 👨‍💻 About Me
-I am a Senior Tech Lead, AI Engineer, and Solution Architect with over 25 years of experience in the software industry. My passion lies in building and leading teams to deliver advanced software solutions, with a recent intensive focus on Open-Source AI, Local AI Infrastructure, and Data Sovereignty. I am deeply committed to driving innovation through privacy-preserving and democratized AI, particularly for mobile-first web applications.
+I am a Senior Tech Lead, AI Engineer, and Solution Architect with over 25 years of experience in the software industry. My passion lies in building and leading teams to deliver advanced software solutions, with a recent intensive focus on Open-Source AI, Local AI Infrastructure, and Data Sovereignty. I am deeply committed to driving innovation through privacy-preserving and democratized AI, particularly for mobile-first applications.
 
 ### 📊 My GitHub Stats & Trophies
 <p align="center">
@@ -21,17 +21,12 @@ I am a Senior Tech Lead, AI Engineer, and Solution Architect with over 25 years 
 <p><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></p>
 
 ### 🚀 My Current AI Projects
-- RAG.WTF: An upcoming open-source platform for private, personalized knowledge discovery and management using RAG systems.
-- open-text-embeddings: A Python library providing an OpenAI-compatible API for diverse open-source sentence transformer models. 
-- Talk To AI: A real-time voice AI application for low-latency (<300ms) interactions, with a flexible backend supporting local and cloud STT, LLM, and TTS services.
+- [RAG.WTF](https://www.rag.wtf/): An upcoming open-source platform for private, personalized knowledge discovery and management using RAG systems.
+- [Talk To AI](https://github.com/limcheekin/talk-to-ai): A real-time voice AI application for low-latency (<300ms) interactions, with a flexible backend supporting local and cloud STT, LLM, and TTS services.
+- [Project Concord](https://github.com/limcheekin/project-concord): A Model Context Protocol (MCP) server that connects modern AI agents with legacy database schemas. 
 
 ### 🏆 Past Open Source Contributions
-Long before my focus on AI, I was an active contributor to the Grails Framework ecosystem. I developed and maintained over 10 plugins that helped developers and non-programmers build applications more efficiently.
-- Grails Activiti Plugin: A BPM workflow system that grew to over 100 forum members.
-- Grails Form Builder Plugin: Empowered non-programmers to create online forms.
-- jQuery Validation UI Plugin: Enhanced developer productivity with client-side validation.
-
-Explore all my Grails plugins on my old blog.
+Long before focusing on AI, I worked on [Fluwix](https://github.com/limcheekin/fluwix) (a Flutter showcase platform) and was an active contributor to the Grails Framework ecosystem. I developed and maintained [over 10 plugins](https://limcheekin.blogspot.com/p/my-grails-plugins.html) that helped developers and non-programmers build applications more efficiently.
 
 ### 🌱 I'm Currently Learning
 - Hugging Face Agents Course
